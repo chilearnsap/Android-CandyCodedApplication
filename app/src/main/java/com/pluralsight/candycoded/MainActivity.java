@@ -29,12 +29,6 @@ public class MainActivity extends AppCompatActivity {
     private Candy[] candies;
     private CandyDbHelper candyDbHelper = new CandyDbHelper(this);
 
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-      Intent intent = new Intent(this, InfoActivity.class);
-      startActivity(intent);
-        return super.onOptionsItemSelected(item);
-    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -86,6 +80,13 @@ public class MainActivity extends AppCompatActivity {
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.main, menu);
         return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        Intent intent = new Intent(this, InfoActivity.class);
+        startActivity(intent);
+        return super.onOptionsItemSelected(item);
     }
     // ***
     // TODO - Task 1 - Show Store Information Activity
