@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="98896444325438335a" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6P_API_28" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -53,7 +62,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -64,6 +73,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._1_StartTheStoreInformationActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_StartTheGoogleMapsActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -145,6 +170,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
       </list>
@@ -182,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600091151187</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Override onOptionItemsselected.">
+      <created>1600091654935</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600091654935</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -202,34 +235,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="19" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.728@0.0.1366.728" timestamp="1600083004437" />
-    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1600091449557">
+    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1601031211191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600091449557" />
+    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601031211191" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600085950888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600085950888" />
-    <state width="1286" height="148" key="GridCell.Tab.0.bottom" timestamp="1600091479192">
+    <state width="1323" height="162" key="GridCell.Tab.0.bottom" timestamp="1601029405100">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="148" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600091479192" />
-    <state width="1286" height="148" key="GridCell.Tab.0.center" timestamp="1600091479190">
+    <state width="1323" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601029405100" />
+    <state width="1323" height="162" key="GridCell.Tab.0.center" timestamp="1601029405099">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="148" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600091479190" />
-    <state width="1286" height="148" key="GridCell.Tab.0.left" timestamp="1600091479190">
+    <state width="1323" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601029405099" />
+    <state width="1323" height="162" key="GridCell.Tab.0.left" timestamp="1601029405097">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="148" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600091479190" />
-    <state width="1286" height="148" key="GridCell.Tab.0.right" timestamp="1600091479191">
+    <state width="1323" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601029405097" />
+    <state width="1323" height="162" key="GridCell.Tab.0.right" timestamp="1601029405099">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="148" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600091479191" />
+    <state width="1323" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601029405099" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1600085974981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600085974981" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601028940583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601028940583" />
     <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600090673856">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
