@@ -61,7 +61,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._4_ShareACandyWithAnIntent">
+  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -201,9 +201,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._4_ShareACandyWithAnIntent" />
         <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
-        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
       </list>
@@ -269,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601042272425</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Override onOptionItemsselected.&#10;Google Map Intent&#10;Passed .XML after restarting Android Studio&#10;Phone Intent&#10;SharingIntent">
+      <created>1601048451900</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601048451900</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -277,7 +284,8 @@
     <MESSAGE value="Override onOptionItemsselected.&#10;Google Map Intent" />
     <MESSAGE value="Override onOptionItemsselected.&#10;Google Map Intent&#10;Passed .XML after restarting Android Studio" />
     <MESSAGE value="Override onOptionItemsselected.&#10;Google Map Intent&#10;Passed .XML after restarting Android Studio&#10;Phone Intent" />
-    <option name="LAST_COMMIT_MESSAGE" value="Override onOptionItemsselected.&#10;Google Map Intent&#10;Passed .XML after restarting Android Studio&#10;Phone Intent" />
+    <MESSAGE value="Override onOptionItemsselected.&#10;Google Map Intent&#10;Passed .XML after restarting Android Studio&#10;Phone Intent&#10;SharingIntent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Override onOptionItemsselected.&#10;Google Map Intent&#10;Passed .XML after restarting Android Studio&#10;Phone Intent&#10;SharingIntent" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1601046348532">
@@ -292,30 +300,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="19" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.728@0.0.1366.728" timestamp="1600083004437" />
-    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1601042262064">
+    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1601048441501">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601042262064" />
+    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601048441501" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600085950888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600085950888" />
-    <state width="1286" height="181" key="GridCell.Tab.0.bottom" timestamp="1601048326495">
+    <state width="1286" height="181" key="GridCell.Tab.0.bottom" timestamp="1601051140896">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601048326495" />
-    <state width="1286" height="181" key="GridCell.Tab.0.center" timestamp="1601048326494">
+    <state width="1286" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601051140896" />
+    <state width="1286" height="181" key="GridCell.Tab.0.center" timestamp="1601051140895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601048326494" />
-    <state width="1286" height="181" key="GridCell.Tab.0.left" timestamp="1601048326494">
+    <state width="1286" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601051140895" />
+    <state width="1286" height="181" key="GridCell.Tab.0.left" timestamp="1601051140894">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601048326494" />
-    <state width="1286" height="181" key="GridCell.Tab.0.right" timestamp="1601048326494">
+    <state width="1286" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601051140894" />
+    <state width="1286" height="181" key="GridCell.Tab.0.right" timestamp="1601051140895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601048326494" />
+    <state width="1286" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601051140895" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1600085974981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
